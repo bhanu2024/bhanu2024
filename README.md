@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on any projects programming related
-- 📫 How to reach me bhanusahana@gmail.com
+- 📫 How to reach me: <a href='bhanusahana@gmail.com'>mail</a>
 
 <!---
 bhanu2024/bhanu2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
