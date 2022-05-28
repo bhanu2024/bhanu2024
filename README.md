@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhanu2024
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web design
+- 🌱 I’m full stack web developer
 - 💞️ I’m looking to collaborate on any projects programming related
 - 📫 How to reach me: <a href="mailto:bhanusahana@gmail.com">mail</a>
 
